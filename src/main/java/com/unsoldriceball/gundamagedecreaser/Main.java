@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 public class Main
 {
     public static final String MOD_ID = "gundamagedecreaser";
-    private static final float DAMAGE_FACTOR = 0.575f;
+    private static final float DAMAGE_FACTOR = 0.275f;
 
     private static final String[] TARGETS = new String[]
             {
