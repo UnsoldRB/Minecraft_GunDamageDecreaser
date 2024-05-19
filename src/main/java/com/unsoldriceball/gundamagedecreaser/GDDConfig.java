@@ -16,7 +16,7 @@ public class GDDConfig
 {
     @Config.RequiresMcRestart
     @Config.RangeDouble(min = 0.0d, max = 1.0d)
-    public static float damageMultiplier = 0.15f;
+    public static float damageMultiplier = 0.22f;
 
 
 
