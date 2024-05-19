@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gundamagedecreaser",
+  "name": "GunDamageDecreaser",
+  "description": "Decrease guns damage.",
+  "version": "2.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RiceBallSouls"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
