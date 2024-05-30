@@ -62,7 +62,7 @@ public class GDDMain
 
                     float _reduced_damage = event.getAmount() * GDDConfig.damageMultiplier;       // ダメージを(DAMAGE_FACTOR)%に減少させる
 
-                    //もしMORE_DECREASE_TARGETSにも含まれるなら更に(DAMAGE_FACTOR)%に減少させる。
+                    //もしMORE_DECREASE_TARGETSにも含まれるなら更に(damageMultiplier)%に減少させる。
                     if (isContainID(_ID_ATTACKER, MORE_DECREASE_TARGETS))
                     {
                         _reduced_damage *= GDDConfig.damageMultiplier;
